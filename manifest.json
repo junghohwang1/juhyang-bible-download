@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 16,
-    "versionName": "1.5",
-    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.5/juhyangbible.apk",
-    "notes": "성경 찾기에서 초성(ㅊㅅㄱ→창세기)·약칭으로도 책을 찾을 수 있음."
+    "versionCode": 17,
+    "versionName": "1.6",
+    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.6/juhyangbible.apk",
+    "notes": "성경사전 표제어·내 사전 검색에서 초성(ㅇㅅㄹ→이스라엘)으로도 찾을 수 있음."
   },
   "kyodoc": {
     "version": 0,
