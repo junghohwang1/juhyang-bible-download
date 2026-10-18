@@ -1,0 +1,12 @@
+{
+  "app": {
+    "versionCode": 13,
+    "versionName": "1.2",
+    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.2/juhyangbible.apk",
+    "notes": "위쪽 탭과 책·장·절 선택을 한 줄로 합침, 역본 목록에서 개역개정을 맨 위로, 음원 접근 기간 제한 없앰."
+  },
+  "kyodoc": {
+    "version": 0,
+    "url": ""
+  }
+}
