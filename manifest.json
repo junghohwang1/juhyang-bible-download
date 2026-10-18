@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 15,
-    "versionName": "1.4",
-    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.4/juhyangbible.apk",
-    "notes": "주보 탭 추가: 주보 사진을 찍으면 예배 순서를 정리하고 찬송·성경·교독문으로 바로 가며, 순서 고치기·형식 기억·주보 공유·불러오기를 지원."
+    "versionCode": 16,
+    "versionName": "1.5",
+    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.5/juhyangbible.apk",
+    "notes": "성경 찾기에서 초성(ㅊㅅㄱ→창세기)·약칭으로도 책을 찾을 수 있음."
   },
   "kyodoc": {
     "version": 0,
