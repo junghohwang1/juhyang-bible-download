@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 17,
-    "versionName": "1.6",
-    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.6/juhyangbible.apk",
-    "notes": "성경사전 표제어·내 사전 검색에서 초성(ㅇㅅㄹ→이스라엘)으로도 찾을 수 있음."
+    "versionCode": 18,
+    "versionName": "1.7",
+    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.7/juhyangbible.apk",
+    "notes": "성경봉독에 여러 구절이 있어도 구절마다 바로가기, 순서 줄에 유튜브 영상 붙이기(교회 채널에서 찾기), 성경 탭 색 구분, 주보를 링크로 공유, 주보 탭 「주보 작성법」."
   },
   "kyodoc": {
     "version": 0,
