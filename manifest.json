@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 18,
-    "versionName": "1.7",
-    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.7/juhyangbible.apk",
-    "notes": "성경봉독에 여러 구절이 있어도 구절마다 바로가기, 순서 줄에 유튜브 영상 붙이기(교회 채널에서 찾기), 성경 탭 색 구분, 주보를 링크로 공유, 주보 탭 「주보 작성법」."
+    "versionCode": 19,
+    "versionName": "1.8",
+    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.8/juhyangbible.apk",
+    "notes": "구글 드라이브 백업: 설정에서 백업용 구글 계정을 한 번 지정하면 그 계정 드라이브의 「주향성경 백업」 폴더에 바로 백업하고, 복구할 때 목록에서 골라 받습니다. 보관함 백업에 주보 설정(순서 이름 목록·교회 유튜브 채널)도 들어가고, 받은 자료 백업도 기기/드라이브를 고를 수 있습니다."
   },
   "kyodoc": {
     "version": 0,
