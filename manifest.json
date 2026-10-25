@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 20,
-    "versionName": "1.9",
-    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.9/juhyangbible.apk",
-    "notes": "기기 간 동기화(같은 구글 계정 기기끼리 보관함 · 주보 · 역본 · 찬송가 파일 맞추기, 지워지거나 덮어써질 때는 먼저 물음), 성경 읽기 목소리(남성 · 여성) · 음 높이 고르기와 음원/기기 음성 고르기, 주보 사진 인식 개선(칸 자동 구분 · 오후예배 형식) · 주보에서 연 성경 구절 표시, 설정의 「업데이트 확인」, 긴 찬송가 악보 아래가 잘리던 문제 수정."
+    "versionCode": 21,
+    "versionName": "1.9.1",
+    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.9.1/juhyangbible.apk",
+    "notes": "안드로이드 6.0(갤럭시 탭4 등) 기기에도 설치되도록 했습니다. 옛 기기에서 업데이트 확인 · 자료 받기가 인증서 문제로 막히던 것도 고쳤습니다. 1.9의 기기 간 동기화, 목소리 · 음 높이, 주보 칸 자동 구분, 업데이트 확인, 긴 악보 수정이 함께 들어 있습니다."
   },
   "kyodoc": {
     "version": 0,
