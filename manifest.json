@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 19,
-    "versionName": "1.8",
-    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.8/juhyangbible.apk",
-    "notes": "구글 드라이브 백업: 설정에서 백업용 구글 계정을 한 번 지정하면 그 계정 드라이브의 「주향성경 백업」 폴더에 바로 백업하고, 복구할 때 목록에서 골라 받습니다. 보관함 백업에 주보 설정(순서 이름 목록·교회 유튜브 채널)도 들어가고, 받은 자료 백업도 기기/드라이브를 고를 수 있습니다."
+    "versionCode": 20,
+    "versionName": "1.9",
+    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.9/juhyangbible.apk",
+    "notes": "기기 간 동기화(같은 구글 계정 기기끼리 보관함 · 주보 · 역본 · 찬송가 파일 맞추기, 지워지거나 덮어써질 때는 먼저 물음), 성경 읽기 목소리(남성 · 여성) · 음 높이 고르기와 음원/기기 음성 고르기, 주보 사진 인식 개선(칸 자동 구분 · 오후예배 형식) · 주보에서 연 성경 구절 표시, 설정의 「업데이트 확인」, 긴 찬송가 악보 아래가 잘리던 문제 수정."
   },
   "kyodoc": {
     "version": 0,
