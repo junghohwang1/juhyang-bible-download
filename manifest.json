@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 23,
-    "versionName": "1.9.3",
-    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.9.3/juhyangbible.apk",
-    "notes": "개역개정을 기본으로 넣었습니다(바이블헬퍼 없이도 읽고 찾기). 성경 책 고르기를 표로도 볼 수 있고, 장 선택 칸을 작게 해 한눈에 보입니다. 성경·찬송가 전체 화면(⛶), 찬송가 두 쪽 화면 정리, 음원 진행바 ✕ 를 넣었습니다."
+    "versionCode": 24,
+    "versionName": "1.9.4",
+    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.9.4/juhyangbible.apk",
+    "notes": "낭독을 들을 때 강조되는 절과 글자가 실제 음성과 맞도록 고쳤습니다(한글 낭독 전체 장). 「여기서부터 듣기」도 그 절에서 바로 시작합니다."
   },
   "kyodoc": {
     "version": 0,
