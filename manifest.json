@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 24,
-    "versionName": "1.9.4",
-    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.9.4/juhyangbible.apk",
-    "notes": "낭독을 들을 때 강조되는 절과 글자가 실제 음성과 맞도록 고쳤습니다(한글 낭독 전체 장). 「여기서부터 듣기」도 그 절에서 바로 시작합니다."
+    "versionCode": 25,
+    "versionName": "1.9.5",
+    "url": "https://github.com/junghohwang1/juhyang-bible-download/releases/download/v1.9.5/juhyangbible.apk",
+    "notes": "성경 역본에 새한글성경(2024)을 더했습니다. 바이블헬퍼 0.8 에서 받으면 역본 목록에 나타납니다. 낭독 음원이 없어 기기 음성으로 읽어 줍니다."
   },
   "kyodoc": {
     "version": 0,
